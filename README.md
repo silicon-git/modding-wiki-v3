@@ -1,3 +1,6 @@
+---
+title: Making Mods
+---
 Welcome to the Danganronpa V3: Killing Harmony modding wiki! This is the home of information about making modifications to the game [Danganronpa V3: Killing Harmony](https://en.wikipedia.org/wiki/Danganronpa_V3:_Killing_Harmony) (often shortened to **Danganronpa V3**, or abbreviated to **DRV3**).
 
 With current tools, mods for Danganronpa V3 can change some parts of the game, but not others. 
