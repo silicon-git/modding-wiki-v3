@@ -1,4 +1,5 @@
-Mods can be set up to be shared easily with other people. Danganronpa V3 mods are usually shared on [GameBanana](https://gamebanana.com/games/18840) and use [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) as the mod loader.
+Mods can be set up to be shared easily with other people. 
+Danganronpa V3 mods are usually shared on [GameBanana](https://gamebanana.com/games/18840), using [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) as the mod loader.
 Data read from .CPK file archives can be added to or replaced through [CRI FileSystem V2 Hook](https://github.com/Sewer56/CriFs.V2.Hook.ReloadedII) for Reloaded-II. This makes it easy for users to play a mod without actually changing the files in their install of DRV3. 
 **No mod should redistribute the entirety of Danganronpa V3: Killing Harmony's unmodified game files**. In addition to being illegal, considering current tools for mod distribution, this is also highly unnecessary. Mods should strive to avoid redistribution of unmodified game content, as this would be piracy of game files. As more tools for distributing mods are developed, this goal should become more and more feasible.
 
